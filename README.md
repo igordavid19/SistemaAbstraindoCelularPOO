@@ -1,4 +1,4 @@
-# SistemaAbstraindoCelularPOO <h1>
+# Sistema Abstraindo Celular com POO <h1>
 
 
 Aplicação simples feita em console sobre informações de celulares inicialmente cadastrados. Feito em C# .NET
@@ -9,4 +9,4 @@ O sistema solicita informações como: IMEI, modelo, número e mémoria.
 
 
 
-Objetivo principal: Cumrprir desafio relacionado a assuntos como Classes abstract, sealed, entre outras.
+# Objetivo principal: <h6> Cumrprir desafio relacionado a assuntos como Classes abstract, sealed, entre outras em POO.
