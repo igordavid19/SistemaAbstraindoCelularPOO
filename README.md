@@ -6,3 +6,7 @@ Aplicação simples feita em console sobre informações de celulares inicialmen
 O sistema solicita informações como: IMEI, modelo, número e mémoria.
 
 É feita a validação dos números com quantidade, formato e depois é exibido na tela as configurações.
+
+
+
+Objetivo principal: Cumrprir desafio relacionado a assuntos como Classes abstract, sealed, entre outras.
